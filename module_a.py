@@ -6,4 +6,4 @@ def my_fun(a: int, b: int) -> int:
 
     var = sum * 2
 
-    return sum
+    return var
