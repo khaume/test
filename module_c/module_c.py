@@ -8,3 +8,5 @@ module_a.my_fun(1, VAR_1)
 print('just executed module_a')
 print('string is: ', SOME_STR)
 
+# Some comment in module_c
+# More comment
