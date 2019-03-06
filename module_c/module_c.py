@@ -13,3 +13,5 @@ print('string is: ', SOME_STR)
 
 result = 2 + 2
 print(result)
+
+# And a comment
