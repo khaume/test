@@ -7,6 +7,7 @@ def main():
     # comment in main
     result = my_fun(10, 5)
 
+    # comment again
     print(f'The result was {result}')
 
     print('running module b function')
