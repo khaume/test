@@ -1,6 +1,6 @@
 def other_fun(var1: int, var2: int) -> str:
     """
-    Docstring
+    Docstring. more docstring
 
     :param var1: A number
     :param var2: Another number
