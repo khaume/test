@@ -10,3 +10,12 @@ print('string is: ', SOME_STR)
 
 # Some comment in module_c
 # More comment
+
+result = 2 + 2
+
+# A bit more of comment
+result += 10
+
+print(result)
+
+# And a comment. More comment
