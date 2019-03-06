@@ -4,6 +4,7 @@ from test.module_b.module_b import other_fun
 def main():
     print('in the main method..')
 
+    # comment in main
     result = my_fun(10, 5)
 
     print(f'The result was {result}')
