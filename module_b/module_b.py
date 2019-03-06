@@ -10,6 +10,8 @@ def other_fun(var1: int, var2: int) -> str:
 
     # Some comment
     result = 5+5
+
+    # Comment
     print(result)
 
     return str(var1 + var2)
