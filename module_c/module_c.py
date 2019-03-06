@@ -12,6 +12,8 @@ print('string is: ', SOME_STR)
 # More comment
 
 result = 2 + 2
+result += 10
+
 print(result)
 
 # And a comment. More comment
