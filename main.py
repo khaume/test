@@ -1,4 +1,4 @@
-from module_a import my_fun
+from test.module_a import my_fun
 
 def main():
     print('in the main method..')
