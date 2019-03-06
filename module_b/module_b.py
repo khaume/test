@@ -13,7 +13,7 @@ def other_fun(var1: int, var2: int) -> str:
     # Some comment
     result = 5+VAR_1
 
-    # Comment. More comment2. more again
+    # Comment. More comment2. more again.
     print(result)
 
     # Comment. more comment. some new comment. more more more
