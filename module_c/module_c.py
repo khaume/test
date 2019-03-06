@@ -15,6 +15,7 @@ result = 2 + 2
 
 # A bit more of comment
 result += 10
+# comment
 result += 20
 
 print(result)
