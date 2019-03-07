@@ -13,7 +13,7 @@ def main():
     # comment again again
     print('running module b function')
 
-    # some comment
+    # some comment.
     print(other_fun(2, 2))
 
 if __name__ == '__main__':
