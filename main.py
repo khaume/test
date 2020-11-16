@@ -1,5 +1,5 @@
-from test.module_a import my_fun
-from test.module_b.module_b import other_fun
+from module_a import my_fun
+from module_b.module_b import other_fun
 
 def main():
     print('in the main method..')

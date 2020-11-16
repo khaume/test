@@ -1,4 +1,4 @@
-from test.module_c.utils import VAR_1
+from module_c.utils import VAR_1
 
 def other_fun(var1: int, var2: int) -> str:
     """
